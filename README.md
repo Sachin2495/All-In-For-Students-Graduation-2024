@@ -273,3 +273,8 @@ Contact - students@allinopensource.org
 - Name: Vera Dureke
 - School: Eastern Gateway Community College 
 - Favorite Quote: “It always seems impossible until it is done.” - Nelson Mandela
+----
+- Name: Sachin R
+- School: Agni college of technology 
+- Favorite Quote: “Data is the new oil.” - Clive Humby.
+
